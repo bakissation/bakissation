@@ -17,5 +17,4 @@
   
 
 📫 How to reach me...
-* Email: abdelbaki.berkati@gmail.com
 * LinkedIn: https://www.linkedin.com/in/abdelbakiberkati/
