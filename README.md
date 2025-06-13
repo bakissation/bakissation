@@ -1,20 +1,18 @@
-👋 Hi, I'm @bakissation
+# 👋 Hi, I'm Abdelbaki Berkati (@bakissation)
 
-👀 I'm interested in...
-* Software engineering
-* Video games
-* Anime
-* Paranormal
+Co-founder | Product Owner | Tech Enthusiast
 
-🌱 I'm currently learning...
-* How to build a SaaS software as a Full Stack developer
-* How to solve real-life problems using code
-* How to automate boring jobs
+---
 
-💞️ I'm looking to collaborate on...
-* Open-source projects of any kind
-* Product owning
-  
+### 👨‍💻 I work with:
+- Software engineering & SaaS products  
+- Real-world problem solving with code  
+- Process automation  
 
-📫 How to reach me...
-* LinkedIn: https://www.linkedin.com/in/abdelbakiberkati/
+### 🌱 Currently exploring:
+- Building and scaling full-stack SaaS apps  
+- Open-source collaboration  
+- Game dev and AI experiments on the side  
+---
+
+📬 Reach me on [LinkedIn](https://www.linkedin.com/in/abdelbakiberkati/)
