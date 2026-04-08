@@ -4,21 +4,30 @@ Startup operator in regulated markets. I build and invest in early-stage B2B tec
 
 Working with founders building in regulated industries and corporates looking for an innovation operator in North Africa and the Gulf.
 
-## Open Source
+## What I build
 
-| Project | Description |
+**Developer tools and SDKs** for markets where the docs are sparse and the integrations are painful.
+
+| Project | What it does |
 |---------|-------------|
-| [mcp-google-multi](https://github.com/bakissation/mcp-google-multi) | Multi-account Google MCP server. 73+ tools across Gmail, Drive, Calendar, Sheets, Docs, and Contacts |
-| [satim-ts](https://github.com/bakissation/satim-ts) | Production-grade TypeScript SDK for SATIM payment gateway in Algeria |
-| [fastify-satim](https://github.com/bakissation/fastify-satim) | Fastify plugin for SATIM payments with multi-tenant support |
+| [mcp-google-multi](https://github.com/bakissation/mcp-google-multi) | Multi-account Google MCP server — 73+ tools across Gmail, Drive, Calendar, Sheets, Docs, Contacts |
+| [@bakissation/satim](https://github.com/bakissation/satim-ts) | TypeScript SDK for SATIM (CIB/Edahabia) card payments in Algeria |
+| [@bakissation/fastify-satim](https://github.com/bakissation/fastify-satim) | Fastify plugin for SATIM with multi-tenant support |
+
+## Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=bakissation&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=false" alt="GitHub stats" />
+</p>
 
 ## Consulting
 
-I help businesses integrate AI, comply with e-invoicing mandates (ZATCA, Factur-X), build MCP servers, and accept payments in Algeria.
+I help businesses integrate AI, comply with e-invoicing mandates (ZATCA, Factur-X), build MCP servers, and accept card payments in Algeria.
 
-See how I can help at [berkati.xyz/consulting](https://berkati.xyz/consulting/)
+**[See how I can help → berkati.xyz/consulting](https://berkati.xyz/consulting/)**
 
 ## Links
 
-- [berkati.xyz](https://berkati.xyz)
-- [LinkedIn](https://www.linkedin.com/in/abdelbakiberkati)
+[![Website](https://img.shields.io/badge/berkati.xyz-000?style=flat&logo=google-chrome&logoColor=white)](https://berkati.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelbakiberkati)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~bakissation)
