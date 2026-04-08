@@ -11,6 +11,7 @@ Working with founders building in regulated industries and corporates looking fo
 | Project | What it does |
 |---------|-------------|
 | [mcp-google-multi](https://github.com/bakissation/mcp-google-multi) | Multi-account Google MCP server — 73+ tools across Gmail, Drive, Calendar, Sheets, Docs, Contacts |
+| [multi-sentry-mcp](https://github.com/IdeaCraftersHQ/multi-sentry-mcp) | Multi-org Sentry MCP server — isolated error monitoring across portfolio companies |
 | [@bakissation/satim](https://github.com/bakissation/satim-ts) | TypeScript SDK for SATIM (CIB/Edahabia) card payments in Algeria |
 | [@bakissation/fastify-satim](https://github.com/bakissation/fastify-satim) | Fastify plugin for SATIM with multi-tenant support |
 
